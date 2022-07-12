@@ -1,7 +1,7 @@
 
 ## _printf()
 
-The printf project is a collaboration between Tolulope Fakunle and Bamidele Adefolaju, students of Software Engineering at ALX. 
+The printf project is a collaboration between azeezat and josephine, students of Software Engineering at ALX. 
 
 This function named "_printf()" imitates the actual "printf()" command located in the stdio.h library of C programming Language. It contains some of the basic features and functions found in the manual 3 of "printf".
 
@@ -30,7 +30,7 @@ Own Printf Function That Performs Formatted Output Conversion And Print Data.
 
 
 
-### holberton.h
+### main.h
 Header File Where All Prototypes Are Saved.
 
 
@@ -239,10 +239,10 @@ Function That Returns The Amount Of Indetifiers.
 
 
 ### Authors
-Tolulope Fakunle and Bamidele Adefolaju
+azeezat and josephine
 
 ------------
 
 ### End
 
-Bamidele & Adefolaju @ ALX software engineering programme 2022.
+jpsephine & Azeezat @ ALX software engineering programme 2022.
